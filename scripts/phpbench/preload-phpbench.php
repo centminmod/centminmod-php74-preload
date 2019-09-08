@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 $preload_patterns = [
-    "bench.php",
+    // "bench.php",
     "micro_bench.php",
     "detailed_benchmark.php",
 ];
